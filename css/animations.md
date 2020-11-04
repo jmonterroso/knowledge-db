@@ -1,5 +1,7 @@
 # Website Resources for Animations
 
+I found this list of animations in a [tweet](https://twitter.com/denicmarko/status/1323882444353867776), I found them really interesting 
+
 [AniJS](https://anijs.github.io/) 
 
 [Animista](https://animista.net/) 
